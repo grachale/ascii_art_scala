@@ -1,0 +1,29 @@
+#Successful Tests
+#Sun Dec 17 17:25:21 CET 2023
+MainTest.MainTest=1702830321636
+conversions.images.specific.AsciiImageConversionTests=1702830321626
+conversions.images.specific.GrayImageConversionTests=1702830321576
+conversions.images.specific.RGBImageConversionTests=1702830321632
+conversions.pixels.specific.RGBPixelConversionTests=1702830321576
+exporters.text.FileTextExporterTests=1702830321669
+exporters.text.StdOutputTextExporterTests=1702830321576
+filters.image.ascii.mixed.FilterImageAsciiMixedTests=1702830321595
+filters.image.ascii.specific.FlipAsciiImageFilterTests=1702830321612
+filters.image.ascii.specific.RotateAsciiImageFilterTests=1702830321666
+filters.image.ascii.specific.ScaleAsciiImageFilterTests=1702830321643
+loaders.image.specific.JpgImageLoaderTests=1702830321746
+loaders.image.specific.JpgPngImageLoaderTests=1702768200145
+loaders.image.specific.PngImageLoaderTests=1702830321697
+loaders.image.specific.RandomImageLoaderTests=1702830321632
+models.images.specific.AsciiImageTests=1702830321607
+models.images.specific.GrayImageTests=1702830321634
+models.images.specific.RGBImageTests=1702830321611
+models.pixels.specific.GrayPixelTests=1702830321587
+models.pixels.specific.RGBPixelTests=1702830321615
+parsers.specific.ImageFilterParserTests=1702830321576
+parsers.specific.ImageLoaderParserTests=1702830321641
+parsers.specific.ImageOutputParserTests=1702830321623
+parsers.specific.ImageTransformParserTests=1702830321625
+transforms.specific.BourkeTransformationTableTests=1702830321576
+transforms.specific.CustomTransformationTableTests=1702830321642
+transforms.specific.NonLinearTransformationTableTests=1702830321576

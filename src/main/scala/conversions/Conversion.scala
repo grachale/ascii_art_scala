@@ -1,0 +1,5 @@
+package conversions
+
+trait Conversion {
+
+}

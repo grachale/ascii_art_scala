@@ -1,0 +1,155 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRGBPixelConversionTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular values 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular values 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImageLoaderParserTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse empty arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse random image argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse single JPG image argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse single PNG image argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse unsupported image format[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse missing path for image file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse multiple image arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRandomImageLoaderTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Load random image with valid dimensions[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFileTextExporterTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- No file exists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- File already exists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAsciiImageTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 2x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 3x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 2x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 3x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mMainTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Foo[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGrayPixelTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 22[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 255[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Change pixel value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAsciiImageConversionTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 3x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Empty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRGBImageConversionTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular values 2x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular values 3x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 3x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImageOutputParserTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse empty arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse console output argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse file output argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse multiple output arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse missing path for file output[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGrayImageTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 2x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 3x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 2x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 3x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mJpgImageLoaderTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Values: image_2x1.jpg[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions: image_2x1.jpg[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRotateAsciiImageFilterTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By 0 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By 360 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By 180 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By 90 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By 270 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By -90 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By -180 degrees[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Unsupported rotation degree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImageFilterParserTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse empty arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse single rotate argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse single scale argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse single flip argument[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse multiple arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse incomplete arguments - Missing value for rotate[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse incomplete arguments - Missing value for scale[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse incomplete arguments - Missing value for flip[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPngImageLoaderTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Values: image_2x1.png[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions: image_2x1.png[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFilterImageAsciiMixedTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Rotate 180, rotate 180, scale 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Flip x, flip x, rotate 90, rotate -90, scale 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Flip y, flip y, rotate 360, rotate 0, scale 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Flip x, flip x, rotate -270, rotate 270, scale 0.25, scale 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mScaleAsciiImageFilterTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Scale by 0.25 (4x4 image)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Scale by 1 (4x4 image)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Scale by 4 (4x4 image)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Scale by 0.25 (2x2 image)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Scale by 1 (2x2 image)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Scale by 4 (2x2 image)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Unsupported scale value 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Unsupported scale value 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRGBPixelTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular values 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular values 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Edge values 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Change pixel values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRGBImageTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Values[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 2x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 3x2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 2x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Dimensions 3x3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStdOutputTextExporterTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Write[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mGrayImageConversionTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Custom table 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Custom table 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Custom table 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mBourkeTransformationTableTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Lower bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Upper bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Middle value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Regular value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Out of range (below)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Out of range (above)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCustomTransformationTableTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Lower bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Upper bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Middle value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Decimal value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Out of range (below)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Out of range (above)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFlipAsciiImageFilterTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By x-axis (3x3)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By y-axis (3x3)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By x-axis (2x2)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- By y-axis (2x2)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Exception (z-axis)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNonLinearTransformationTableTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Lower bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Mid-Lower bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Mid-Upper bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Upper bound[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Out of range (below)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Out of range (above)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImageTransformParserTests:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse empty arguments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse Bourke standard transformation table[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse non-linear transformation table[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse custom transformation table[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse unsupported predefined transformation table[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse missing name for predefined transformation table[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Parse missing symbols for custom transformation table[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 175 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 119[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 26, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 119, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed 17 Dec 2023, 17:13:57[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

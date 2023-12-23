@@ -1,0 +1,68 @@
+1702653455126:run
+1702653505906:run --image accets/car_bmw.jpg
+1702653513839:run --image accets/car_bmw.jpg --output-console
+1702653548220:run --image accets/car_bmw.jpg --table-custom "@0 " --output-console
+1702653566855:run --image accets/car_bmw.jpg --custom-table "@0 " --output-console
+1702653576868:run --image accets/car_bmw.jpg --custom-table "fjksdfjads" --output-console
+1702653588992:run --image accets/car_bmw.jpg --custom-table "@#%80" --output-console
+1702653600588:run --image accets/car_bmw.jpg --custom-table "qwergh" --output-console
+1702653613072:run --image accets/car_bmw.jpg --custom-table " " --output-console
+1702653620831:run --image accets/car_bmw.jpg --custom-table ". " --output-console
+1702653630288:run --image accets/car_bmw.jpg --custom-table "*. " --output-console
+1702653635455:run --image accets/car_bmw.jpg --custom-table "#*. " --output-console
+1702653661708:run --image accets/car_bmw.jpg --table non-linear --output-console
+1702657242297:run
+1702657253576:run --image accets/car_bmw.jpg --custom-table "#*. " --output-console
+1702657727482:run --image accets/car_bmw.jpg --output-console
+1702658335241:run --image accets/grape_fruit.jpg --output-console
+1702658353485:run --image accets/grape_fruit.png --output-console
+1702658363005:run --image accets/grape_fruit.png --scale 0.25 --output-console
+1702658381018:run --image accets/grape_fruit.png --scale 0.25 --custom-table ". " --output-console
+1702658393553:run --image accets/grape_fruit.png --scale 0.25 --scale 4 --custom-table ". " --output-console
+1702658412918:run --image accets/butterfly.jpg --scale 0.25 --scale 4 --custom-table ". " --output-console
+1702658420416:run --image accets/butterfly.jpg --scale 0.25 --scale 4  --output-console
+1702658431966:run --image accets/butterfly.jpg --output-console
+1702658440268:run --image accets/butterfly.jpg --scale 0.25 --output-console
+1702737224475:test
+1702815673615:test -deprication
+1702815690569:test -deprecation
+1702815728885:sbt compile -deprecation
+1702815733285:compile -deprecation
+1702815776859:test -deprecation
+1702815779372:test
+1702816333932:run -image "accets/butterfly.jpg"
+1702816341833:run --image "accets/butterfly.jpg"
+1702816350783:run --image "accets/butterfly.jp"
+1702816356516:run --image "accets/butterfy.jpg"
+1702816378054:run --image "accets/butterfly.jpg" --output-console
+1702816430732:run --image "accets/grape_fruit.png" --output-console
+1702816446565:run --image "accets/grape_fruit.png" --rotate +90 --output-console
+1702816460849:run --image "accets/grape_fruit.png" --rotate +90 --scale 0.25 --output-console
+1702816547336:run --image "accets/butterfly.jpg" --rotate -180 --output-file "accets/output.txt" --output-console
+1702816614330:run --image "accets/butterfly.jpg" --rotate -180 --output-file
+1702816626094:run --image "accets/butterfly.jpg" --rotate -180
+1702816635627:run --image "accets/butterfly.jpg" --rotate -180 --output-console
+1702816642782:run --image "accets/butterfly.jpg" --rotate -180 --scale 9 --output-console
+1702816646899:run --image "accets/butterfly.jpg" --rotate -180 --scale --output-console
+1702816669395:run --image "accets/butterfly.jpg" --rotate -180 --scale -9 -output-console
+1702816674341:run --image "accets/butterfly.jpg" --rotate -180 --scale -0.25 -output-console
+1702816679354:run --image "accets/butterfly.jpg" --rotate -180 --scale 0.25 -output-console
+1702816685843:run --image "accets/butterfly.jpg" --rotate -180 --scale 0.25 --output-console
+1702816694313:run --image "accets/butterfly.jpg" --random-image --rotate -180 --scale 0.25 --output-console
+1702816704501:run --image "accets/butterfly.jpg" --image-random --rotate -180 --scale 0.25 --output-console
+1702816792715:run --image "accets/butterfly.jpg" --image-random --output-console
+1702816802331:run --image "accets/butterfly.jpg" --random-image --rotate -180 --scale 0.25 --output-console
+1702816819697:run --image "accets/butterfly.jpg" --image-random --rotate -180 --scale 0.25 --output-console
+1702816873481:run --image "accets/butterfly.jpg" --image-random --rotate -180 --output-console
+1702816888786:run --image "accets/butterfly.jpg" --image-random --scale 0.25  --output-console
+1702817191245:test
+1702817603781:run --image "accets/butterfly.jpg" --image-random --scale 0.25  --output-console
+1702817619076:run --image "accets/butterfly.jpg" --scale 0.25  --output-console
+1702817635783:run --image "accets/grape_fruit.png" --scale 0.25  --output-console
+1702817647828:run --image "accets/car_bmw.png" --scale 0.25  --output-console
+1702817654703:run --image "accets/car_bmw.jpg" --scale 0.25  --output-console
+1702817665607:test
+1702821842568:run --image "accets/butterfly.jpg" --output-console
+1702828594932:test
+1702829865001:ls
+1702829880524:test
